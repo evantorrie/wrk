@@ -46,6 +46,12 @@ rm -rf %{buildroot}
 
 
 %changelog
+* Mon Dec 15 2014 Evan Torrie <evant@yahoo-inc.com> 3.3.1-1
+- new package built with tito
+
+* Mon Dec 15 2014 Evan Torrie <evant@yahoo-inc.com> 3.3.1-1
+- new package built with tito
+
 * Mon Dec 15 2014 Evan Torrie <evant@yahoo-inc.com> 3.4.1-1
 - use default version as specified (evant@yahoo-inc.com)
 
